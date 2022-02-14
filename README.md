@@ -6,3 +6,5 @@ you can try it after running node.js server (server.js file) using command
 ```
 >node server 
 ```
+
+in this project i was intersted only in api communication and handeling client& server sides, i have just used very simple frontend design
